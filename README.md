@@ -1,0 +1,2 @@
+# waracut-releases
+WARACUT releases
